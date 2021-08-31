@@ -1,0 +1,4 @@
+baseURL = "https://huzhenghui.github.io/"
+languageCode = "en-us"
+theme = "ananke"
+title = "My New Hugo Site"
